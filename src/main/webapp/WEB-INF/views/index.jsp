@@ -6,7 +6,7 @@
 
     <h1>JSP</h1>
     <p>Java Server Pages - технологія створення веб-застосунків на Java</p>
-    <a href="<%= contextPath %>/WEB-INF/views/hello.jsp">Hello world</a>
+    <a href="<%= contextPath %>/hello.jsp">Hello world</a>
     <p>
         fromServlet = <%= fromServlet %>
     </p>
